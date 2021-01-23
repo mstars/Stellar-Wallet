@@ -12,5 +12,3 @@ nodemon app.js
 ```
 
 
-## License
-[NetObjex Inc](https://netobjex.com)
